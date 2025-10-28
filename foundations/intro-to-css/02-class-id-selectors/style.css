@@ -1,1 +1,36 @@
-/* Add CSS Styling */
+
+#id1, #id2 {
+    font-family: "Times New Roman";
+    
+}
+
+.odd {
+    background-color: #ffc0cb;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.onefive {
+    font-size: large;
+}
+
+.three {
+    font-size: 24 px;
+}
+
+.twofour {
+    font-family: "Times New Roman"
+}
+
+.two {
+
+    color:blue;
+    font-size: 36px;
+}
+
+.four {
+    background-color: #60df0c;
+    font-size: 24px ;
+    font-weight: bold;
+}
+
+
